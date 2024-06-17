@@ -1,0 +1,45 @@
+pageTitle {
+    font-weight: bold;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+h1 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.calendar-page-anchor {
+    margin-top: 20px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.calendar-page-anchor:hover {
+    color: #0056b3;
+}
+
+.event-text {
+    display: block;
+}
+
+@media (max-width: 800px) {
+
+    .mobile-event-text {
+        display: block;
+    }
+}

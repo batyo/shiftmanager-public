@@ -1,0 +1,28 @@
+.container {
+    margin: 20px;
+}
+
+.table-wrappaer {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #dee2e6;
+    text-align: center;
+}
+
+th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.button-container form {
+    display: inline-block;
+    margin-right: 10px;
+}

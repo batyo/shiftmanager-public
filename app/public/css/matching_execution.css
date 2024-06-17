@@ -1,0 +1,29 @@
+.container {
+    margin: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: auto;
+}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #dee2e6;
+    text-align: center;
+    width: auto;
+}
+
+th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.button-container form {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.button-container {
+    margin-top: 20px;
+}
